@@ -16,3 +16,10 @@ Interpret the results of the logistic regression, decision tree, random forest, 
 Compare the advantages and disadvantages of each supervised learning algorithm.
 Determine which supervised learning algorithm is best used for a given data set or scenario.
 Use ensemble and resampling techniques to improve model performance.
+
+
+Resources
+Python 3.7
+NumPy, version 1.19.2
+SciPy, version 1.5.2 
+Scikit-learn, version 0.23.2 
