@@ -65,14 +65,13 @@ Using the credit card credit dataset from LendingClub, we will:
 * Precision = 0.99
 * Recall = 0.87
 * Balanced Accuracy = 0.78
-
 #### Easy Ensemble AdaBoost Classifier 
 * Precision = 0.99
 * Recall = 0.87
 * Balanced Accuracy = 0.78
 
-
-
 # Summary 
 
-# There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+After reviewing each of the methods that we used, precision was high in all cases. However, recall and balanced accuracy scores the best performers of these categories were Balanced Random Forest and Easy Ensemble Classifiers. These tests had high recall values of 0.87 and balanced accuracy scores of 0.78, showing more significantly higher marks than the other sampling methods. To ensure accuracy in our screening process of credit card applicants, these Ensemble methods are the recommended methods. 
+
+Cluster Centroids undersampling process performed the worst. It appears the disparity between the majority and minority data sets was very apparent when shrinking down the size of applicants that posed a low risk on their credit rating.
