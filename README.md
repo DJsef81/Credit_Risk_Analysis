@@ -24,13 +24,23 @@ Using the credit card credit dataset from LendingClub, we will:
 
 
 ### Resources
-Python 3.7
-NumPy, version 1.19.2
-SciPy, version 1.5.2 
-Scikit-learn, version 0.23.2 
+* Python 3.7
+* NumPy, version 1.19.2
+* SciPy, version 1.5.2 
+* Scikit-learn, version 0.23.2 
 
 # There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-Summary:
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Naive_Random_Oversampling.png)
+
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/SMOTE_Oversampling.png)
+
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Combo_Over_Under_Sampling%20.png)
+
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Undersampling%20.png)
+
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Balanced_Random_Forest_Classifier%20.png)
+
+![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Easy_Ensemble_AdaBoost_Classifier.png)
 
 # Summary 
 
