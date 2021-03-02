@@ -37,17 +37,23 @@ Using the credit card credit dataset from LendingClub, we will:
 * Recall = 0.56
 * Balanced Accuracy = 0.64
 
+
+
 ![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/SMOTE_Oversampling.png)
 #### SMOTE Oversampling
 * Precision = 0.99
 * Recall = 0.69
 * Balanced Accuracy = 0.65
 
+
+
 ![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Combo_Over_Under_Sampling%20.png)
 #### Combination (Over and Under) Sampling
 * Precision = 0.99
 * Recall = 0.56
-* Balanced Accuracy = 0.67
+* Balanced Accuracy = 0.6
+
+
 
 ![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Undersampling%20.png)
 #### Undersampling
@@ -55,17 +61,23 @@ Using the credit card credit dataset from LendingClub, we will:
 * Recall = 0.40
 * Balanced Accuracy = 0.52
 
+
+
 ![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Balanced_Random_Forest_Classifier%20.png)
 #### Balanced Random Forest Classifier
 * Precision = 0.99
 * Recall = 0.87
 * Balanced Accuracy = 0.78
 
+
+
 ![](https://github.com/DJsef81/Credit_Risk_Analysis/blob/main/Sampling/Easy_Ensemble_AdaBoost_Classifier.png)
 #### Easy Ensemble AdaBoost Classifier 
 * Precision = 0.99
 * Recall = 0.87
 * Balanced Accuracy = 0.78
+
+
 
 # Summary 
 
